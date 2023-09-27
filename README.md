@@ -10,7 +10,7 @@ Here you will find my projects, my studies, my workplace. I like to think that I
 
 ### 🌎  &nbsp;&nbsp;Connect with me
 
-[![Linkedin: Henry Padua](https://img.shields.io/badge/-Henry_Padua-%230077B5.svg??style=flat&logo=linkedin)](https://www.linkedin.com/in/henry-padua-5b5294a7/](https://www.linkedin.com/in/henrypadua/?locale=en_US))
+[![Linkedin: Henry Padua](https://img.shields.io/badge/-Henry_Padua-%230077B5.svg??style=flat&logo=linkedin)](https://www.linkedin.com/in/henrypadua/?locale=en_US)
 [![Outlook: Henry Padua](https://img.shields.io/badge/-henrybpj@outlook.com-0078D4?style=flat&logo=microsoft-outlook)](mailto:henrybpj@outlook.com)
 [![Instagram Badge](https://img.shields.io/badge/-@henrypadua.dev-c0067a?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/henrypadua.dev/)
 
